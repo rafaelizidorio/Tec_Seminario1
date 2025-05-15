@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.cabeçalho{
+    background-color: #096B68;
+    color: #FFFBDE;
+
+    padding: 24px;
+}
+
+.section{
+    background-color: #096B68;
+    color: #fffbde;
+    padding: 24px;
+}
+
+.lista li{
+    margin-bottom: 32px;
+}
+
+.lista li h3{
+    text-decoration: underline;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.lista li p{
+    color: #ffffff;
+    margin-bottom: 8px;
+}
+
+.lista li img{
+    border-radius: 8px;
+}
